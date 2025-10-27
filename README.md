@@ -33,5 +33,5 @@ The system provides **real-time alerts** and **multilingual voice/app notificati
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/<your-username>/OnionGuard-AI.git
+git clone https://github.com/sarthaklabhade1212/OnionGuard-AI.git
 cd OnionGuard-AI
